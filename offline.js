@@ -1,0 +1,30 @@
+﻿{
+	"version": 1585041228,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/land.png",
+		"images/player1-sheet0.png",
+		"images/role-sheet0.png",
+		"images/role-sheet1.png",
+		"images/ball-sheet0.png",
+		"images/wall-sheet0.png",
+		"images/send-sheet0.png",
+		"images/send-sheet1.png",
+		"images/send-sheet2.png",
+		"images/plat-sheet0.png",
+		"images/box-sheet0.png",
+		"images/coins-sheet0.png",
+		"media/walk .ogg",
+		"media/backmusic.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
